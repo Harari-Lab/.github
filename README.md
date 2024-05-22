@@ -1,3 +1,2 @@
-# T cell discovery lab
+# .github
 
-Lab from Alexandre Harari from the University of Lausanne
